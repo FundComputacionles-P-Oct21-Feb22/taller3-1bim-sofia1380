@@ -1,0 +1,3 @@
+Se necesita representar un dominio de datos de tipo cadena, que permita representar solo las letras minúsculas y las letras mayúsculas: A,B,D,E,F. El número de caracteres posibles es 20; se acepta caracteres en blanco.
+
+x[{a,A,b,B,d,D,e,E,f,F}, {20}, {BS}]
